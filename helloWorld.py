@@ -1,1 +1,1 @@
-print("Hello All this is dy code!")
+print("Hello All this is dummy code!")
